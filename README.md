@@ -1,2 +1,13 @@
-# north-star-retail-sales-analysis
-End-to-end Power BI portfolio project analyzing retail sales, profitability, products, customers, regions, and discounting using the Kaggle Superstore dataset.
+# North Star Retail
+
+## 1. North Star Retails Sales Analysis
+
+## 2. Business Objective
+
+## 3. Tools and Data Model
+
+## 4. Dashboard
+
+## 5. Key Findings and Recommendations
+
+## 6. Repository Structure and Source
