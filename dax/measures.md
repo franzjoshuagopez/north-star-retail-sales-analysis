@@ -1,4 +1,4 @@
-#D AX Measures
+# DAX Measures
 
 ## Overview
 Below is the list of measures created for this Power BI Dashboard to measure, calculate, and/or analyze the data and provide meaningful charts and insights
