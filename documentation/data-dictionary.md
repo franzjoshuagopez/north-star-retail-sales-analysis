@@ -1,6 +1,6 @@
-#Data Dictionary
+# Data Dictionary
 
-##fact_sales
+## fact_sales
 
 | Column | Description | Data Type |
 |:---:|:---:|:---:|:---:|
@@ -18,7 +18,7 @@
 | discount_group | discount grouping | Text |
 | discount_group_sorting | sorting key for discount group | Number |
 
-##dim_product
+## dim_product
 
 | Column | Description | Data Type |
 |:---:|:---:|:---:|:---:|
@@ -28,7 +28,7 @@
 | subcategory | product subcategory | Text |
 | product_name | product name | Text |
 
-##dim_customer
+## dim_customer
 
 | Column | Description | Data Type |
 |:---:|:---:|:---:|:---:|
@@ -41,7 +41,7 @@
 | postal_code | customer postal code | Text |
 | region | customer region | Text |
 
-##dim_date
+## dim_date
 
 | Column | Description | Data Type |
 |:---:|:---:|:---:|:---:|
