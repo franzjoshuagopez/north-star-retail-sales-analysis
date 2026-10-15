@@ -3,7 +3,7 @@
 ## fact_sales
 
 | Column | Description | Data Type |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | row_id | row identifier | Number |
 | order_id | order identifier | Text |
 | order_date | date of order submission | Date |
@@ -21,7 +21,7 @@
 ## dim_product
 
 | Column | Description | Data Type |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | product_key | row identifier | Number |
 | product_id | product identifier | Text |
 | category | product category | Text |
@@ -31,7 +31,7 @@
 ## dim_customer
 
 | Column | Description | Data Type |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | customer_id | customer identifier | Text |
 | customer name | customer name | Text |
 | segment | customer segment | Text |
@@ -44,7 +44,7 @@
 ## dim_date
 
 | Column | Description | Data Type |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | date | date range | date |
 | year | date year | Number |
 | year_quarter | date quarter year | Text |
